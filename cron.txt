@@ -1,0 +1,2 @@
+* */8 * * * cd /home/gustavo/Proj/Other/commit_creator/ && date > diffFile.txt && git add . && git commit -m date && git push
+* */3 * * 6,7 cd /home/gustavo/Proj/Other/commit_creator/ && date > diffFile.txt && git add . && git commit -m date && git push
